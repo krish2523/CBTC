@@ -15,7 +15,7 @@ body {
   left: 0;
   width: 100%;
   padding: 20px 10%;
-  background: black;
+  background: transparent;
   /* border-radius: 5px; */
   display: flex;
   justify-content: space-between;
@@ -451,7 +451,9 @@ form textarea {
   width: 90%;
   padding: 18px;
   background: #555557;
-  color: black;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 0.5rem;
